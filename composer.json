@@ -1,0 +1,14 @@
+{
+    "name": "chrstcalv/laravel-file-manager",
+    "description": "A file manager for laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christopher Calvin",
+            "email": "chrscalvn@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
