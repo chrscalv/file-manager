@@ -10,5 +10,12 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "pbmedia/laravel-ffmpeg": "^7.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "chrstcalv\\FileManager\\": "src/"
+        }
+    }
 }
