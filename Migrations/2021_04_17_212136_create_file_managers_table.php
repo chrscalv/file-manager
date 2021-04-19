@@ -27,7 +27,6 @@ class CreateFileManagersTable extends Migration
             $table->bigIncrements('id');
             $table->unsignedInteger('file_id');
             $table->unsignedInteger('model_id');
-            $table->integer('count');
             $table->timestamps();
         });
     }
